@@ -4,6 +4,10 @@ require 'haml'
 require 'rdiscount'
 require 'nokogiri'
 
+configure :production do
+  require 'newrelic_rpm'
+end
+
 # for all markdown files, use post.haml as layout
 set :markdown, :layout_engine => :haml, :layout => :layout
 
