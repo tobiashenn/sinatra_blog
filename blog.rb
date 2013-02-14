@@ -12,10 +12,6 @@ get '/' do
   haml :index
 end
 
-get '/test' do 
-  markdown :test
-end
-
 get '/content/:id' do
   @content = RDiscount.new( File.open("content/" + params["id"].concat(".md")).read.force_encoding('UTF-8') ).to_html
   haml :article_view
