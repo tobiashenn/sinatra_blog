@@ -1,0 +1,13 @@
+%div.container
+  %div.page-header
+    %h1 
+      Articles
+      %small Check out this list of cool articles!
+  %div
+    %ul.unstyled
+      -@articles.each do |article|
+        -article.gsub!(/.md/,'')
+        %li
+          %a{:href => "/content/#{article}"} #{article}
+      
+      
