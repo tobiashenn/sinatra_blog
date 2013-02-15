@@ -4,6 +4,7 @@ require 'haml'
 require 'rdiscount'
 require 'nokogiri'
 
+# new relic monitoring...
 configure :production do
   require 'newrelic_rpm'
 end
