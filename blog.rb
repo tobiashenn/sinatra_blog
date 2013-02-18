@@ -1,4 +1,3 @@
-# encoding: utf-8
 require 'sinatra'
 require 'haml'
 require 'rdiscount'
@@ -9,7 +8,6 @@ configure :production do
   require 'newrelic_rpm'
 end
 
-# for all markdown files, use post.haml as layout
 set :markdown, :layout_engine => :haml, :layout => :layout
 
 

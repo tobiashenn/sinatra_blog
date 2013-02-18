@@ -8,9 +8,6 @@
       -@articles.each do |article|
         -@article_content = RDiscount.new( File.open("content/" + article).read.force_encoding('UTF-8') ).to_html
         -@article_title = Nokogiri::HTML::DocumentFragment.parse( @article_content ).css('h1').inner_html()
-        -puts @article_title
         -article.gsub!(/.md/,'')
         %li
-          %a{:href => "/content/#{article}"} #{@article_title} - #{article} 
-      
-      
+          %a{:href => "/content/#{article}"} #{@article_title} - #{article}       
