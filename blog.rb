@@ -31,3 +31,7 @@ get '/blog' do
   @titles = Array.new
   haml :articles
 end
+
+get '/gallery' do
+  haml :gallery
+end
