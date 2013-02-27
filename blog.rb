@@ -1,4 +1,5 @@
 require 'sinatra'
+require 'unicorn'
 require 'haml'
 require 'rdiscount'
 require 'nokogiri'
@@ -7,6 +8,8 @@ require 'nokogiri'
 configure :production do
   require 'newrelic_rpm'
 end
+
+puts "Ruby Version: " + RUBY_VERSION
 
 set :markdown, :layout_engine => :haml, :layout => :layout
 
