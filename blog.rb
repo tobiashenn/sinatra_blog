@@ -1,5 +1,5 @@
 require 'sinatra'
-require 'unicorn'
+require 'thin'
 require 'haml'
 require 'rdiscount'
 require 'nokogiri'
