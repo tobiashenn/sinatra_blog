@@ -28,6 +28,12 @@ get '/content/:id' do
   haml :article_view
 end
 
+get '/research' do
+  @created_at = params["id"]
+  @content = RDiscount.new( File.open("markdown/research.md").read.force_encoding('UTF-8') ).to_html
+  haml :research_view
+end
+
 get '/blog' do
   @dir = Dir['content/*.md'].sort.reverse
   @articles = @dir.map { |c| c.split('/').reverse.first}
