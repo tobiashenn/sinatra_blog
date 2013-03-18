@@ -9,13 +9,13 @@ As an undergraduate student I spent a year (2008/2009) at the University of Cali
 During my research internship at Berkeley my main focus was on the development of a new software infrastructure for the automated analysis of spatially resolved near-edge X-ray absorption fine structure (NEXAFS) spectroscopy datasets.   
 
 ## Publications
-**Henn, T.**, Kiessling, T., Reuter, D., Wieck, A. D., Ossau, W., and Molenkamp, L. W.: *Picosecond real-space imaging of electron spin diffusion in GaAs*, Manuscript in preparation for submission to Physical review B (2013)
+**Henn, T.**, Kiessling, T., Reuter, D., Wieck, A. D., Ossau, W., and Molenkamp, L. W.: *Picosecond real-space imaging of electron spin diffusion in GaAs*, Manuscript in preparation for submission to Physical Review B (2013)
 
 **Henn, T.**, Quast, J.-H., Kiessling, T., Reuter, D., Wieck, A. D., Ossau, W., and Molenkamp, L. W.: *Hot electron spin diffusion in n-type GaAs*, Manuscript in preparation for submission to Proceedings of the International School of Physics Enrico Fermi (2013)
 
-**Henn, T.**, Heckel, A., Beck, M., Kiessling, T., Reuter, D., Wieck, A. D., Ossau, W., and Molenkamp, L. W.: *Hot carrier effects on the magneto-optical detection of electron spins in GaAs*, Manuscript in preparation for submission to Physical review B (2013)
+**Henn, T.**, Heckel, A., Beck, M., Kiessling, T., Reuter, D., Wieck, A. D., Ossau, W., and Molenkamp, L. W.: *Hot carrier effects on the magneto-optical detection of electron spins in GaAs*, Manuscript in preparation for submission to Physical Review B (2013)
 
-Quast, J.-H., **Henn, T.**, Kiessling, T., Reuter, D., Wieck, A. D., Ossau, W., and Molenkamp, L. W.: *Hot carrier effects on lateral electron spin diffusion in n-type GaAs*, Manuscript submitted for publication (2013)
+Quast, J.-H., **Henn, T.**, Kiessling, T., Reuter, D., Wieck, A. D., Ossau, W., and Molenkamp, L. W.: *Hot carrier effects on lateral electron spin diffusion in n-type GaAs*, Manuscript submitted for publication to Physical Review B (2013)
 
 Kiessling, T., Quast, J.-H., Kreisel, A., **Henn, T**, Ossau, W., and Molenkamp, L. W.: *Spatially resolved photocarrier energy relaxation in low-doped bulk GaAs*, [Physical Review B 82, 161201(R) (2012)](http://dx.doi.org/10.1103/PhysRevB.86.161201)
 
