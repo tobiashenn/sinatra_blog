@@ -36,8 +36,7 @@ end
 
 get '/blog' do
   @dir = Dir['content/*.md'].sort.reverse
-  @articles = @dir.map { |c| c.split('/').reverse.first}
-  @titles = Array.new
+  @articles = @dir.map { |c| c.split('/').reverse.first }
   haml :articles
 end
 
