@@ -1,13 +1,12 @@
-%div.container
-  %div.page-header
-    %h1 
-      Articles
-      %small Check out this list of cool articles!
-  %div
-    %ul.unstyled
-      -@articles.each do |article|
-        -@article_content = RDiscount.new( File.open("content/" + article).read.force_encoding('UTF-8') ).to_html
-        -@article_title = Nokogiri::HTML::DocumentFragment.parse( @article_content ).css('h1').inner_html()
-        -article.gsub!(/.md/,'')
-        %li
-          %a{:href => "/content/#{article}"} #{@article_title} - #{article}       
+%div.page-header
+  %h1 
+    Articles
+    %small Check out this list of cool articles!
+%div
+  %ul.unstyled
+    -@articles.each do |article|
+      -@article_content = RDiscount.new( File.open("content/" + article).read.force_encoding('UTF-8') ).to_html
+      -@article_title = Nokogiri::HTML::DocumentFragment.parse( @article_content ).css('h1').inner_html()
+      -article.gsub!(/.md/,'')
+      %li
+        %a{:href => "/content/#{article}"} #{@article_title} - #{article}       

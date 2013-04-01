@@ -18,12 +18,11 @@
 		%link{ :href => "/bootstrap/css/bootstrap-responsive.css", :type => "text/css", :rel => "stylesheet" }
 		/ add FLAT-UI CSS
 		%link{ :href => "/css/flat-ui.css", :type => "text/css", :rel => "stylesheet" }
-	
-    	
-	%body
-
-		%div= haml :navbar
+		/ favicon
+		%link{ :rel => "shortcut icon", :href => "/favicon.ico" }
 		
+	%body
+		%div= haml :navbar
 		%div.container
 			.span7= yield
 
