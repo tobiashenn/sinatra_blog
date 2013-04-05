@@ -98,7 +98,7 @@ common: &default_settings
   browser_monitoring:
       # By default the agent automatically injects the monitoring JavaScript 
       # into web pages. Set this attribute to false to turn off this behavior.
-      auto_instrument: true
+      auto_instrument: false
 
   # Proxy settings for connecting to the service.
   #
@@ -130,7 +130,7 @@ common: &default_settings
     # Transaction tracer is enabled by default. Set this to false to
     # turn it off. This feature is only available at the Professional
     # and above product levels.
-    enabled: true
+    enabled: false
     
     # Threshold in seconds for when to collect a transaction
     # trace. When the response time of a controller action exceeds
@@ -168,12 +168,12 @@ common: &default_settings
     # Error collector is enabled by default. Set this to false to turn
     # it off. This feature is only available at the Professional and above
     # product levels
-    enabled: true
+    enabled: false
     
     # Rails Only - tells error collector whether or not to capture a 
     # source snippet around the place of the error when errors are View 
     # related.
-    capture_source: true    
+    capture_source: false    
     
     # To stop specific errors from reporting to New Relic, set this property
     # to comma separated values.  Default is to ignore routing errors

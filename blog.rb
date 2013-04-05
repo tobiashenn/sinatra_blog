@@ -1,10 +1,10 @@
 require 'sinatra'
-#require 'thin'
 require 'haml'
 require 'rdiscount'
 require 'nokogiri'
 
 configure { set :server, :puma }
+
 # new relic monitoring...
 configure :production do
   require 'newrelic_rpm'
