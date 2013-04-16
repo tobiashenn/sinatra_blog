@@ -15,7 +15,7 @@ During my research internship at Berkeley my main focus was on the development o
 
 **Henn, T.**, Heckel, A., Beck, M., Kiessling, T., Reuter, D., Wieck, A. D., Ossau, W., and Molenkamp, L. W.: *Hot carrier effects on the magneto-optical detection of electron spins in GaAs*, Manuscript submitted to Physical Review B (2013)
 
-Quast, J.-H., **Henn, T.**, Kiessling, T., Reuter, D., Wieck, A. D., Ossau, W., and Molenkamp, L. W.: *Hot carrier effects on lateral electron spin diffusion in n-type GaAs*, Manuscript submitted to Physical Review B (2013)
+Quast, J.-H., **Henn, T.**, Kiessling, T., Reuter, D., Wieck, A. D., Ossau, W., and Molenkamp, L. W.: *Hot carrier effects on lateral electron spin diffusion in n-type GaAs*, Manuscript accepted for publication in Physical Review B (2013)
 
 Kiessling, T., Quast, J.-H., Kreisel, A., **Henn, T**, Ossau, W., and Molenkamp, L. W.: *Spatially resolved photocarrier energy relaxation in low-doped bulk GaAs*, [Physical Review B 82, 161201(R) (2012)](http://dx.doi.org/10.1103/PhysRevB.86.161201)
 
