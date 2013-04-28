@@ -1,9 +1,16 @@
+require 'bundler/setup'
 require 'sinatra'
 require 'haml'
 require 'rdiscount'
 require 'nokogiri'
 
-configure { set :server, :puma }
+#configure { set :server, :puma }
+set :server, :puma
+
+configure :production do
+  set :port, 80
+end
+
 
 # new relic monitoring...
 configure :production do

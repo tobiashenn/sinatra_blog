@@ -3,7 +3,7 @@ GEM
   specs:
     haml (4.0.2)
       tilt
-    newrelic_rpm (3.6.0.83)
+    newrelic_rpm (3.6.1.87)
     nokogiri (1.5.9)
     puma (1.6.3)
       rack (~> 1.2)
