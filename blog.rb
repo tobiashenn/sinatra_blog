@@ -1,27 +1,21 @@
+# GEMS
 require 'bundler/setup'
 require 'sinatra'
 require 'haml'
 require 'rdiscount'
 require 'nokogiri'
 
-#configure { set :server, :puma }
+# CONFIGURATION
 set :server, :puma
+set :markdown, :layout_engine => :haml, :layout => :layout
 
 configure :production do
-  set :port, 80
-end
-
-
-# new relic monitoring...
-configure :production do
+  #set :port, 80
   require 'newrelic_rpm'
 end
 
-puts "Ruby Version: " + RUBY_VERSION
 
-set :markdown, :layout_engine => :haml, :layout => :layout
-
-
+# ROUTES
 get '/' do 
   haml :index
 end
