@@ -3,19 +3,19 @@ GEM
   specs:
     haml (4.0.2)
       tilt
-    newrelic_rpm (3.6.1.87)
+    newrelic_rpm (3.6.2.96)
     nokogiri (1.5.9)
-    puma (1.6.3)
-      rack (~> 1.2)
+    puma (2.0.1)
+      rack (>= 1.1, < 2.0)
     rack (1.5.2)
     rack-protection (1.5.0)
       rack
-    rdiscount (2.0.7.2)
+    rdiscount (2.0.7.3)
     sinatra (1.4.2)
       rack (~> 1.5, >= 1.5.2)
       rack-protection (~> 1.4)
       tilt (~> 1.3, >= 1.3.4)
-    tilt (1.3.7)
+    tilt (1.4.1)
 
 PLATFORMS
   ruby
