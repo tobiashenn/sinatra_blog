@@ -25,13 +25,12 @@ get '/contact' do
 end
 
 get '/content/:id' do
-  @created_at = params["id"]
+  @created_at = params["id"].gsub(/.md/,"").gsub(/_/,'-')
   @content = RDiscount.new( File.open("content/" + params["id"].concat(".md")).read.force_encoding('UTF-8') ).to_html
   haml :article_view
 end
 
 get '/research' do
-  @created_at = params["id"]
   @content = RDiscount.new( File.open("markdown/research.md").read.force_encoding('UTF-8') ).to_html
   haml :research_view
 end

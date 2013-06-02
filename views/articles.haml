@@ -9,4 +9,5 @@
       -@article_title = Nokogiri::HTML::DocumentFragment.parse( @article_content ).css('h1').inner_html()
       -article.gsub!(/.md/,'')
       %li
-        %a{:href => "/content/#{article}"} #{@article_title} - #{article}     
+        %a{:href => "/content/#{article}"} #{@article_title}
+        ="(#{article.gsub(/_/,'-')})"
