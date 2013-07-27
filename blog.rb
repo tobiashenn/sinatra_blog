@@ -36,6 +36,10 @@ get '/research' do
 end
 
 get '/blog' do
+  redirect to('/articles')
+end
+
+get '/articles' do
   @dir = Dir['content/*.md'].sort.reverse
   @articles = @dir.map { |c| c.split('/').reverse.first }
   haml :articles
