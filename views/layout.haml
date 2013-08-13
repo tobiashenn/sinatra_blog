@@ -3,40 +3,12 @@
 		%meta{:charset => "utf-8"}
 		%meta{:name => "viewport", :content => "width=device-width, initial-scale=1.0"}
 		%title tobiashenn.com
-    
-		:plain
-			<!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
-			<!--[if lt IE 9]>
-				<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-			<![endif]-->
 
-		/ Le styles
-		%link{ :href => "/bootstrap/css/bootstrap.css", :type => "text/css", :rel => "stylesheet" }
-		/ add body padding styles BEFORE responsive CSS to remove top whitespace
-		%link{ :href => "/css/styles.css", :type => "text/css", :rel => "stylesheet" }
-		/ add responsive css
-		%link{ :href => "/bootstrap/css/bootstrap-responsive.css", :type => "text/css", :rel => "stylesheet" }
-		/ add FLAT-UI CSS
-		%link{ :href => "/css/flat-ui.css", :type => "text/css", :rel => "stylesheet" }
+		/ add CSS
+		%link{ :href => "/main.css", :type => "text/css", :rel => "stylesheet" }
 		/ favicon
 		%link{ :rel => "shortcut icon", :href => "/favicon.ico" }
 		
 	%body
 		%div= haml :navbar
-		%div.container
-			.span7= yield
-
-		/ Placed at the end of the document so the pages load faster
-		/%script{ :type => "text/javascript", :src =>"/bootstrap/js/jquery.js"}
-		/%script{ :type => "text/javascript", :src =>"/bootstrap/js/basic/bootstrap-transition.js"}
-		/%script{ :type => "text/javascript", :src =>"/bootstrap/js/basic/bootstrap-alert.js"}
-		/%script{ :type => "text/javascript", :src =>"/bootstrap/js/basic/bootstrap-modal.js"}
-		/%script{ :type => "text/javascript", :src =>"/bootstrap/js/basic/bootstrap-dropdown.js"}
-		/%script{ :type => "text/javascript", :src =>"/bootstrap/js/basic/bootstrap-scrollspy.js"}
-		/%script{ :type => "text/javascript", :src =>"/bootstrap/js/basic/bootstrap-tab.js"}
-		/%script{ :type => "text/javascript", :src =>"/bootstrap/js/basic/bootstrap-tooltip.js"}
-		/%script{ :type => "text/javascript", :src =>"/bootstrap/js/basic/bootstrap-popover.js"}
-		/%script{ :type => "text/javascript", :src =>"/bootstrap/js/basic/bootstrap-button.js"}
-		/%script{ :type => "text/javascript", :src =>"/bootstrap/js/basic/bootstrap-collapse.js"}
-		/%script{ :type => "text/javascript", :src =>"/bootstrap/js/basic/bootstrap-carousel.js"}
-		/%script{ :type => "text/javascript", :src =>"/bootstrap/js/basic/bootstrap-typeahead.js"}
+		= yield

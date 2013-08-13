@@ -8,6 +8,7 @@ require 'nokogiri'
 # CONFIGURATION
 set :server, :puma
 set :markdown, :layout_engine => :haml, :layout => :layout
+set :haml, :format => :html5
 
 configure :production do
   #set :port, 80

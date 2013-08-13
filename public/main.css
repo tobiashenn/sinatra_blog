@@ -1,0 +1,87 @@
+html {
+    background-color: #eeeeee;
+}
+
+body {
+    margin: 0 auto;
+    padding: 2em;
+    max-width: 700px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.5em;
+    color: #333333;
+    background-color: #ffffff;
+    -webkit-box-shadow: 0 0 12px rgba(0, 0, 0, 0.4);
+    -moz-box-shadow: 0 0 12px rgba(0, 0, 0, 0.4);
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.4);
+}
+
+#nav {
+    background-color: #34495E;       
+    border-radius: 5px;
+    height: 30px;
+	text-align: right;
+	width: 100%;
+	font-family: Helvetica, 'Lucida Grande', Lucida, Verdana, sans-serif;
+	font-weight: bold;
+    margin: 0;
+}
+
+#nav ul {
+	margin: 0;
+	padding: 0;
+	display: inline;
+    padding-right: 10px;
+}
+
+#nav ul li {
+    vertical-align:middle;
+    margin-left: 5px;
+	list-style: none;
+	display: inline;
+}
+
+#nav ul li a {
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 16px;
+	line-height: 30px;
+}
+
+#nav ul li a:hover {
+	color: #1ABC9C; 
+	border-bottom: 2px solid #1ABC9C;
+}
+
+a, a:hover {
+    color: #1ABC9C; 
+}
+
+ul {
+    padding-left: 25px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color:#34495E;
+    line-height: 1.3em;
+}
+
+img
+{
+    #background: dimgray;
+    #border: 1px solid black;
+    border-radius: 5px;
+    #padding: 5px 5px 5px;
+    margin: 10px 0;
+    max-width: 95%;
+}
+
+#article_list ul {
+    list-style: none;
+}
+
+samp
+{
+    /* hide <samp> from the browser so we can show cool features in Edge Code */
+    display: none;
+}
