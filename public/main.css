@@ -29,6 +29,7 @@ body {
 }
 
 #nav ul {
+    float:right;
 	margin: 0;
 	padding: 0;
 	display: inline;

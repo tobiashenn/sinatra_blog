@@ -15,7 +15,6 @@ configure :production do
   require 'newrelic_rpm'
 end
 
-
 # ROUTES
 get '/' do 
   haml :index
