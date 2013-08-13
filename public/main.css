@@ -6,9 +6,9 @@ body {
     margin: 0 auto;
     padding: 2em;
     max-width: 700px;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 14px;
-    line-height: 1.5em;
+    line-height: 1.3em;
     color: #333333;
     background-color: #ffffff;
     -webkit-box-shadow: 0 0 12px rgba(0, 0, 0, 0.4);
@@ -23,13 +23,11 @@ body {
 	text-align: right;
 	width: 100%;
 	font-family: "Helvetica Neue", 'Lucida Grande', Lucida, Verdana, sans-serif;
-	font-weight: bold;
     margin: 0;
     font-size: 15px;
 }
 
 #nav ul {
-    float:right;
 	margin: 0;
 	padding: 0;
 	display: inline;
@@ -63,16 +61,26 @@ ul {
 }
 
 h1, h2, h3, h4, h5, h6 {
+    #font-family: Georgia
     color:#34495E;
     line-height: 1.3em;
 }
 
-img
-{
-    #background: dimgray;
-    #border: 1px solid black;
+h1 {
+    font-size:35px;
+}
+
+hr {
+    clear: both;
+	border: none;
+	height: 2px;
+	margin-top: 30px;
+	margin-bottom: 0;
+	background: linear-gradient(to right,  #ffffff 0%,#34495E 25%,#34495E 50%,#34495E 75%,#ffffff 100%);
+}
+
+img {
     border-radius: 5px;
-    #padding: 5px 5px 5px;
     margin: 10px 0;
     max-width: 95%;
 }
@@ -81,8 +89,7 @@ img
     list-style: none;
 }
 
-samp
-{
+samp {
     /* hide <samp> from the browser so we can show cool features in Edge Code */
     display: none;
 }

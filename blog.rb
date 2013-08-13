@@ -16,7 +16,9 @@ configure :production do
 end
 
 # ROUTES
-get '/' do 
+get '/' do
+  @dir = Dir['content/*.md'].sort.reverse
+  @articles = @dir.map { |c| c.split('/').reverse.first } 
   haml :index
 end
 
