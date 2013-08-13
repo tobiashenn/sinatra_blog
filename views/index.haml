@@ -2,11 +2,12 @@
   Hi! Make sure to check out the
   %a{:href => '/gallery'} Gallery!
   
--@articles[0..3].each do |article|
+-@articles[0..2].each do |article|
   %hr
   =@article_content = RDiscount.new( File.open("content/" + article).read.force_encoding('UTF-8') ).to_html
 %hr
 
-%p 
-  You can find more articles in the
-  %a{:href => '/articles'} Archive!
+%p
+  %b
+    You can find more articles in the
+    %a{:href => '/articles'} Archive!

@@ -6,7 +6,7 @@ body {
     margin: 0 auto;
     padding: 2em;
     max-width: 700px;
-    font-family: Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: Avenir,"Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 14px;
     line-height: 1.3em;
     color: #333333;
@@ -36,7 +36,7 @@ body {
 
 #nav ul li {
     vertical-align:middle;
-    padding: 3px;
+    padding: 5px;
 	list-style: none;
 	display: inline;
 }
@@ -61,13 +61,12 @@ ul {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    #font-family: Georgia
     color:#34495E;
     line-height: 1.3em;
 }
 
 h1 {
-    font-size:35px;
+    #font-size:35px;
 }
 
 hr {
