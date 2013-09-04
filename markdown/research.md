@@ -9,11 +9,11 @@ As an undergraduate student I spent a year (2008/2009) at the University of Cali
 During my research internship at Berkeley my main focus was on the development of a new software infrastructure for the automated analysis of spatially resolved near-edge X-ray absorption fine structure (NEXAFS) spectroscopy datasets.   
 
 ## Publications
-**Henn, T.**, Kiessling, T., Biermann, K., Santos, P.V., Ossau, W., and Molenkamp, L. W.: *Ultrafast supercontinuum fiber-laser based pump-probe scanning MOKE microscope for the investigation of electron spin dynamics in semiconductors at cryogenic temperatures with picosecond time and micron spatial resolution*, manuscript in preparation for submission to Review of Scientific Instruments (2013)
+**Henn, T.**, Kiessling, T., Biermann, K., Santos, P.V., Ossau, W., and Molenkamp, L. W.: *Ultrafast supercontinuum fiber-laser based pump-probe scanning MOKE microscope for the investigation of electron spin dynamics in semiconductors at cryogenic temperatures with picosecond time and micron spatial resolution*, manuscript in preparation for submission to Review of Scientific Instruments
 
-**Henn, T.**, Kiessling, T., Reuter, D., Wieck, A. D., Biermann, K., Santos, P.V., Ossau, W., and Molenkamp, L. W.: *Time and spatially resolved electron spin detection in semiconductor heterostructures by magneto-optical Kerr microscopy*, manuscript in preparation for submission to physica status solidi b (2013)
+**Henn, T.**, Kiessling, T., Reuter, D., Wieck, A. D., Biermann, K., Santos, P.V., Ossau, W., and Molenkamp, L. W.: *Time and spatially resolved electron spin detection in semiconductor heterostructures by magneto-optical Kerr microscopy*, manuscript in preparation for submission to physica status solidi b
 
-**Henn, T.**, Kiessling, T., Reuter, D., Wieck, A. D., Ossau, W., and Molenkamp, L. W.: *Picosecond real-space imaging of electron spin diffusion in GaAs*, manuscript in preparation for submission to Physical Review B (2013)
+**Henn, T.**, Kiessling, T., Reuter, D., Wieck, A. D., Ossau, W., and Molenkamp, L. W.: *Picosecond real-space imaging of electron spin diffusion in GaAs*, submitted to Physical Review B
 
 **Henn, T.**, Quast, J.-H., Kiessling, T., Reuter, D., Wieck, A. D., Ossau, W., and Molenkamp, L. W.: *Hot electron spin diffusion in n-type GaAs*, manuscript accepted for publication in Proceedings of the International School of Physics Enrico Fermi (2013)
 
