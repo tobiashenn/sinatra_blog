@@ -11,7 +11,7 @@ During my research internship at Berkeley my main focus was on the development o
 ## Publications
 **Henn, T.**, Kiessling, T., Biermann, K., Santos, P.V., Ossau, W., and Molenkamp, L. W.: *Ultrafast supercontinuum fiber-laser based pump-probe scanning MOKE microscope for the investigation of electron spin dynamics in semiconductors at cryogenic temperatures with picosecond time and micron spatial resolution*, manuscript in preparation for submission to Review of Scientific Instruments
 
-**Henn, T.**, Kiessling, T., Reuter, D., Wieck, A. D., Biermann, K., Santos, P.V., Ossau, W., and Molenkamp, L. W.: *Time and spatially resolved electron spin detection in semiconductor heterostructures by magneto-optical Kerr microscopy*, manuscript in preparation for submission to physica status solidi b
+**Henn, T.**, Kiessling, T., Reuter, D., Wieck, A. D., Biermann, K., Santos, P.V., Ossau, W., and Molenkamp, L. W.: *Time and spatially resolved electron spin detection in semiconductor heterostructures by magneto-optical Kerr microscopy*, manuscript submitted to physica status solidi b
 
 **Henn, T.**, Kiessling, T., Reuter, D., Wieck, A. D., Ossau, W., and Molenkamp, L. W.: *Picosecond real-space imaging of electron spin diffusion in GaAs*, submitted to Physical Review B
 
