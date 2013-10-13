@@ -10,6 +10,10 @@ set :server, :puma
 set :markdown, :layout_engine => :haml, :layout => :layout
 set :haml, :format => :html5
 
+configure :ocean do
+  set :port, 80
+end
+
 configure :production do
   #set :port, 80
   require 'newrelic_rpm'
