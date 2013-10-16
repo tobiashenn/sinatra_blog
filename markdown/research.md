@@ -13,7 +13,7 @@ During my research internship at Berkeley my main focus was on the development o
 
 **Henn, T.**, Kiessling, T., Reuter, D., Wieck, A. D., Biermann, K., Santos, P.V., Ossau, W., and Molenkamp, L. W.: *Time and spatially resolved electron spin detection in semiconductor heterostructures by magneto-optical Kerr microscopy*, manuscript submitted to physica status solidi b
 
-**Henn, T.**, Kiessling, T., Reuter, D., Wieck, A. D., Ossau, W., and Molenkamp, L. W.: *Picosecond real-space imaging of electron spin diffusion in GaAs*, submitted to Physical Review B
+**Henn, T.**, Kiessling, T., Reuter, D., Wieck, A. D., Ossau, W., and Molenkamp, L. W.: *Picosecond real-space imaging of electron spin diffusion in GaAs*, accepted for publication in Physical Review B
 
 **Henn, T.**, Quast, J.-H., Kiessling, T., Reuter, D., Wieck, A. D., Ossau, W., and Molenkamp, L. W.: *Hot electron spin diffusion in n-type GaAs*, manuscript accepted for publication in Proceedings of the International School of Physics Enrico Fermi (2013)
 
