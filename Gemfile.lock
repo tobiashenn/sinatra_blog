@@ -1,10 +1,10 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    haml (4.0.3)
+    haml (4.0.4)
       tilt
     mini_portile (0.5.2)
-    newrelic_rpm (3.6.8.168)
+    newrelic_rpm (3.6.9.171)
     nokogiri (1.6.0)
       mini_portile (~> 0.5.0)
     puma (2.6.0)
