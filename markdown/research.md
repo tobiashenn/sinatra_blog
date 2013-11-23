@@ -9,7 +9,7 @@ As an undergraduate student I spent a year (2008/2009) at the University of Cali
 During my research internship at Berkeley my main focus was on the development of a new software infrastructure for the automated analysis of spatially resolved near-edge X-ray absorption fine structure (NEXAFS) spectroscopy datasets.   
 
 ## Publications
-**Henn, T.**, Kiessling, T., Biermann, K., Santos, P.V., Ossau, W., and Molenkamp, L. W.: *Ultrafast supercontinuum fiber-laser based pump-probe scanning MOKE microscope for the investigation of electron spin dynamics in semiconductors at cryogenic temperatures with picosecond time and micron spatial resolution*, manuscript submitted to Review of Scientific Instruments, [arXiv:1310.3027 [physics.ins-det]](http://arxiv.org/abs/1310.3027)
+**Henn, T.**, Kiessling, T., Biermann, K., Santos, P.V., Ossau, W., and Molenkamp, L. W.: *Ultrafast supercontinuum fiber-laser based pump-probe scanning MOKE microscope for the investigation of electron spin dynamics in semiconductors at cryogenic temperatures with picosecond time and micron spatial resolution*, accepted for publication in Review of Scientific Instruments
 
 **Henn, T.**, Kiessling, T., Reuter, D., Wieck, A. D., Biermann, K., Santos, P.V., Ossau, W., and Molenkamp, L. W.: *Time and spatially resolved electron spin detection in semiconductor heterostructures by magneto-optical Kerr microscopy*, manuscript submitted to physica status solidi b
 
