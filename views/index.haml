@@ -1,7 +1,6 @@
 -@articles[0..2].each do |article|
-  %hr
   =@article_content = RDiscount.new( File.open("content/" + article).read.force_encoding('UTF-8') ).to_html
-%hr
+  %hr
 
 %p
   %b
