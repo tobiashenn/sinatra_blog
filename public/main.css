@@ -21,7 +21,6 @@ body {
     border-radius: 5px;
     height: 30px;
 	  text-align: right;
-	  width: 100%;
 	  font-family: "Helvetica Neue", 'Lucida Grande', Lucida, Verdana, sans-serif;
     margin: 0;
     font-size: 15px;
@@ -35,6 +34,7 @@ body {
 }
 
 #nav ul li {
+    display:inline-block;
     vertical-align:middle;
     padding: 5px;
 	  list-style: none;
@@ -54,10 +54,6 @@ body {
 
 a, a:hover {
     color: #1ABC9C; 
-}
-
-ul {
-    padding-left: 25px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -87,9 +83,5 @@ img {
 
 #article_list ul {
     list-style: none;
-}
-
-samp {
-    /* hide <samp> from the browser so we can show cool features in Edge Code */
-    display: none;
+    padding-left: 25px;
 }
