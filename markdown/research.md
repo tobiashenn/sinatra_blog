@@ -8,7 +8,9 @@ During my Phd work I have developed a novel time-resolved magneto-optical Kerr m
 ## Research Internship at LBNL & UC Berkeley
 As an undergraduate student I spent a year (2008/2009) at the University of California at Berkeley ([UCB](http://www.berkeley.edu/index.html)) and at Lawrence Berkeley National Lab ([LBNL](http://www.lbl.gov)). During this year I worked as a research intern in the [group of Stephen Leone](http://www.cchem.berkeley.edu/leonegrp/) at the Advanced Light Source ([ALS](http://www-als.lbl.gov)). I used  scanning transmission X-ray microscopy ([STXM](http://beamline1102.als.lbl.gov)) to study the chemical properties of aerosol particles. 
 
-During my research internship at Berkeley my main focus was on the development of a new software infrastructure for the automated analysis of spatially resolved near-edge X-ray absorption fine structure (NEXAFS) spectroscopy datasets.   
+During my research internship at Berkeley my main focus was on the development of a new software infrastructure for the automated analysis of spatially resolved near-edge X-ray absorption fine structure (NEXAFS) spectroscopy datasets.
+
+![](http://www.tobiashenn.com/images/stxm.png "Scanning transmission X-ray microscopy (STXM)")
 
 ## Publications
 **Henn, T.**, Kiessling, T., Reuter, D., Wieck, A. D., Biermann, K., Santos, P.V., and Ossau, W.: *Time and spatially resolved electron spin detection in semiconductor heterostructures by magneto-optical Kerr microscopy*, manuscript submitted to physica status solidi (b)
