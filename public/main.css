@@ -1,76 +1,76 @@
 body {
-  margin: 0 auto;
-  padding: 2em;
-  max-width: 650px;
-  font-family: Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
-  line-height: 1.3em;
+	margin: 0 auto;
+  	padding: 2em;
+  	max-width: 650px;
+  	font-family: Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  	font-size: 14px;
+  	line-height: 1.3em;
 }
 
 #nav {
-  text-align: center;
-  font-family: "Helvetica Neue", 'Lucida Grande', Lucida, Verdana, sans-serif;
-  margin: 0;
-  font-size: 16px;
+  	text-align: center;
+  	font-family: "Helvetica Neue", 'Lucida Grande', Lucida, Verdana, sans-serif;
+  	margin: 0;
+  	font-size: 16px;
 }
 
 #nav ul {
-  margin: 0;
-  padding: 0;
-  display: inline;
-  padding-right: 10px;
+  	margin: 0;
+  	padding: 0;
+  	display: inline;
+  	padding-right: 10px;
 }
 
 #nav ul li {
-  vertical-align:middle;
-  padding: 5px;
-  list-style: none;
-  display: inline;
+  	vertical-align:middle;
+  	padding: 5px;
+  	list-style: none;
+  	display: inline;
 }
 
 #nav ul li a {
-  text-decoration: none;
-  line-height: 30px;
-  color: #34495E;
+  	text-decoration: none;
+  	line-height: 30px;
+  	color: #34495E;
 }
 
 #nav ul li a:hover {
-  color: #34495E; 
-  border-bottom: 2px solid #34495E;
+  	color: #34495E; 
+  	border-bottom: 2px solid #34495E;
 }
 
 a, a:hover {
-  color: #57AD68; 
+	color: #57AD68; 
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #404040;
-  line-height: 1.3em;
+  	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  	color: #404040;
+  	line-height: 1.3em;
 }
 
 h1 {
-  font-size: 25px;
+  	font-size: 25px;
 }
 
 hr {
-  clear: both;
-  border: none;
-  height: 2px;
-  margin-top: 30px;
-  margin-bottom: 0;
-  background: linear-gradient(to right,  #ffffff 0%,#34495E 33%,#34495E 66%,#ffffff 100%);
+  	clear: both;
+  	border: none;
+  	height: 2px;
+  	margin-top: 30px;
+  	margin-bottom: 0;
+  	background: linear-gradient(to right,  #ffffff 0%,#34495E 33%,#34495E 66%,#ffffff 100%);
 }
 
 img {
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-  max-width: 100%;    
-  border-radius: 4px;
+  	margin-left: auto;
+  	margin-right: auto;
+ 	display: block;
+  	max-width: 100%;    
+  	border-radius: 4px;
 }
 
 #article_list ul {
-  list-style: none;
-  padding-left: 25px;
+  	list-style: none;
+  	padding-left: 25px;
 }

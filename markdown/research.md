@@ -29,7 +29,7 @@ Kiessling, T., Quast, J.-H., Kreisel, A., **Henn, T**, Ossau, W., and Molenkamp,
 
 Moffet, R. C., Furutani, H., Rödel, T. C., **Henn, T. R.**, Sprau, P. O., Laskin, A., Uematsu, M., and Gilles, M. K.: *Iron speciation and mixing in single aerosol particles from the Asian continental outflow*, [Journal of Geophysical Research 117, 16 (2012)](http://dx.doi.org/10.1029/2011JD016746)
 
-Moffet, R. C., **Henn, T.**, Laskin, A., and Gilles, M. K.: *Automated Chemical Analysis of Internally Mixed Aerosol Particles Using X-ray Spectromicroscopy at the Carbon K-Edge*, Part of the special issue “Atmospheric Analysis as Related to Climate Change”, [Analytical Chemistry 82, 7906 (2010)]("http://dx.doi.org/10.1021/ac1012909")
+Moffet, R. C., **Henn, T.**, Laskin, A., and Gilles, M. K.: *Automated Chemical Analysis of Internally Mixed Aerosol Particles Using X-ray Spectromicroscopy at the Carbon K-Edge*, Part of the special issue “Atmospheric Analysis as Related to Climate Change”, [Analytical Chemistry 82, 7906 (2010)](http://dx.doi.org/10.1021/ac1012909)
 
 Pratt, K. A., Twohy, C. H., Murphy, S. M., Moffet, R. C., Heymsfield, A. J., Gaston, C. J., Demott, P. J., Field, P. R., **Henn, T. R.**, Rogers, D. C., Gilles, M. K., Seinfeld, J. H., and Prather, K. A.: *Observation of playa salts as nuclei in orographic wave clouds*, [Journal of Geophysical Research 115, D15301 (2010)](http://dx.doi.org/10.1029/2009JD013606)
 
