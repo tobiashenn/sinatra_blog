@@ -13,6 +13,7 @@ set :haml, :format => :html5
 # Digitalocean environment
 configure :ocean do
   set :port, 80
+  set :environment, :production
 end
 
 # Heroku environment
