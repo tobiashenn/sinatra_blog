@@ -65,3 +65,14 @@ I, [2014-02-01T10:45:43.620683 #64496]  INFO -- : 0:  rack-protection (1.5.2) fr
 I, [2014-02-01T10:45:43.620930 #64496]  INFO -- : 0:  rdiscount (2.1.7) from /Users/tobi/.rvm/gems/ruby-2.1.0/specifications/rdiscount-2.1.7.gemspec
 I, [2014-02-01T10:45:43.621187 #64496]  INFO -- : 0:  sinatra (1.4.4) from /Users/tobi/.rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
 I, [2014-02-01T10:45:43.621425 #64496]  INFO -- : 0:  bundler (1.5.0) from /Users/tobi/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
+I, [2014-02-11T20:03:29.395545 #8505]  INFO -- : 0:  tilt (1.4.1) from /Users/tobi/.rvm/gems/ruby-2.1.0/specifications/tilt-1.4.1.gemspec
+I, [2014-02-11T20:03:29.399384 #8505]  INFO -- : 0:  haml (4.0.5) from /Users/tobi/.rvm/gems/ruby-2.1.0/specifications/haml-4.0.5.gemspec
+I, [2014-02-11T20:03:29.399686 #8505]  INFO -- : 0:  mini_portile (0.5.2) from /Users/tobi/.rvm/gems/ruby-2.1.0/specifications/mini_portile-0.5.2.gemspec
+I, [2014-02-11T20:03:32.101223 #8505]  INFO -- : 0:  newrelic_rpm (3.7.2.192) from /Users/tobi/.rvm/gems/ruby-2.1.0/specifications/newrelic_rpm-3.7.2.192.gemspec
+I, [2014-02-11T20:03:32.101710 #8505]  INFO -- : 0:  nokogiri (1.6.1) from /Users/tobi/.rvm/gems/ruby-2.1.0/specifications/nokogiri-1.6.1.gemspec
+I, [2014-02-11T20:03:32.102014 #8505]  INFO -- : 0:  rack (1.5.2) from /Users/tobi/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-02-11T20:03:32.102296 #8505]  INFO -- : 0:  puma (2.7.1) from /Users/tobi/.rvm/gems/ruby-2.1.0/specifications/puma-2.7.1.gemspec
+I, [2014-02-11T20:03:32.102585 #8505]  INFO -- : 0:  rack-protection (1.5.2) from /Users/tobi/.rvm/gems/ruby-2.1.0/specifications/rack-protection-1.5.2.gemspec
+I, [2014-02-11T20:03:32.102868 #8505]  INFO -- : 0:  rdiscount (2.1.7) from /Users/tobi/.rvm/gems/ruby-2.1.0/specifications/rdiscount-2.1.7.gemspec
+I, [2014-02-11T20:03:32.103137 #8505]  INFO -- : 0:  sinatra (1.4.4) from /Users/tobi/.rvm/gems/ruby-2.1.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-02-11T20:03:32.103417 #8505]  INFO -- : 0:  bundler (1.5.0) from /Users/tobi/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
