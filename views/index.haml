@@ -1,4 +1,4 @@
--@articles[0..2].each do |article|
+-@articles[0..3].each do |article|
   =@article_content = RDiscount.new( File.open("content/" + article).read.force_encoding('UTF-8') ).to_html
   %hr
 
