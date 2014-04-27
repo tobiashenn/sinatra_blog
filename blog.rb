@@ -13,7 +13,6 @@ set :haml, :format => :html5
 # Digitalocean environment
 configure :ocean do
   set :port, 80
-  set :environment, :production
 end
 
 puts "Blog engine started with Ruby Version #{RUBY_VERSION}-p#{RUBY_PATCHLEVEL}"
