@@ -1,5 +1,8 @@
 -@articles[0..3].each do |article|
-  =@article_content = RDiscount.new( File.open("content/" + article).read.force_encoding('UTF-8') ).to_html
+  - @created_at = article.gsub(/.md/,"").gsub(/_/,'/')
+  %p
+    %small Published #{@created_at}
+  = @article_content = RDiscount.new( File.open("content/" + article).read.force_encoding('UTF-8') ).to_html
   %hr
 
 %p

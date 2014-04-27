@@ -27,6 +27,7 @@ puts "Blog engine started with Ruby Version #{RUBY_VERSION}-p#{RUBY_PATCHLEVEL}"
 get '/' do
   @dir = Dir['content/*.md'].sort.reverse
   @articles = @dir.map { |c| c.split('/').reverse.first } 
+  puts @articles
   haml :index
 end
 
@@ -35,7 +36,7 @@ get '/contact' do
 end
 
 get '/content/:id' do
-  @created_at = params["id"].gsub(/.md/,"").gsub(/_/,'-')
+  @created_at = params["id"].gsub(/.md/,"").gsub(/_/,'/')
   @content = RDiscount.new( File.open("content/" + params["id"].concat(".md")).read.force_encoding('UTF-8') ).to_html
   haml :article_view
 end
@@ -43,10 +44,6 @@ end
 get '/research' do
   @content = RDiscount.new( File.open("markdown/research.md").read.force_encoding('UTF-8') ).to_html
   haml :research_view
-end
-
-get '/blog' do
-  redirect to('/articles')
 end
 
 get '/articles' do

@@ -3,14 +3,14 @@ I am a graduate student at the Department of Physics of the [University of Würz
 
 During my Phd work I have developed a novel time-resolved magneto-optical Kerr microscopy technique which is based on a pulsed ultrafast white-light supercontinuum laser source. I use this system to study electron spin diffusion in GaAs-based heterostructures and quantum wells with picosecond time and micron spatial resolution.
 
-![](images/magneto_diffusion.png "Spin diffusion in external magnetic fields")
+![](/images/magneto_diffusion.png "Spin diffusion in external magnetic fields")
 
 ## Research Internship at LBNL & UC Berkeley
 As an undergraduate student I spent a year (2008/2009) at the University of California at Berkeley ([UCB](http://www.berkeley.edu/index.html)) and at Lawrence Berkeley National Lab ([LBNL](http://www.lbl.gov)). During this year I worked as a research intern in the [group of Stephen Leone](http://www.cchem.berkeley.edu/leonegrp/) at the Advanced Light Source ([ALS](http://www-als.lbl.gov)). I used  scanning transmission X-ray microscopy ([STXM](http://beamline1102.als.lbl.gov)) to study the chemical properties of aerosol particles. 
 
 During my research internship at Berkeley my main focus was on the development of a new software infrastructure for the automated analysis of spatially resolved near-edge X-ray absorption fine structure (NEXAFS) spectroscopy datasets.
 
-![](images/stxm.png "Scanning transmission X-ray microscopy (STXM)")
+![](/images/stxm.png "Scanning transmission X-ray microscopy (STXM)")
 
 ## Publications
 Münzhuber, F., **Henn, T.**, Kiessling, T., Ossau, W., Molenkamp, L. W., Giesking, B., Astakhov, G. V., and Dyakonov, V.: *Exciton decay dynamics controlled by impurity occupation in strongly Mn-doped and partially compensated bulk GaAs*, submitted
