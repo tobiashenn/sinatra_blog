@@ -16,11 +16,6 @@ configure :ocean do
   set :environment, :production
 end
 
-# Heroku environment
-configure :production do
-  require 'newrelic_rpm'
-end
-
 puts "Blog engine started with Ruby Version #{RUBY_VERSION}-p#{RUBY_PATCHLEVEL}"
 
 # ROUTES
