@@ -17,7 +17,7 @@ Bieker, S., **Henn, T.**, Kiessling, T., Ossau, W., Molenkamp, L. W.: *Excitonic
 
 Münzhuber, F., **Henn, T.**, Kiessling, T., Ossau, W., Molenkamp, L. W., Giesking, B., Astakhov, G. V., and Dyakonov, V.: *Exciton decay dynamics controlled by impurity occupation in strongly Mn-doped and partially compensated bulk GaAs*, submitted
 
-**Henn, T.**, Kiessling, T., Reuter, D., Wieck, A. D., Biermann, K., Santos, P.V., and Ossau, W.: *Time and spatially resolved electron spin detection in semiconductor heterostructures by magneto-optical Kerr microscopy*, manuscript accepted for publication in physica status solidi (b) as a Feature Article in the special issue “Semiconductor Spintronics” (2014).
+**Henn, T.**, Kiessling, T., Reuter, D., Wieck, A. D., Biermann, K., Santos, P.V., and Ossau, W.: *Time and spatially resolved electron spin detection in semiconductor heterostructures by magneto-optical Kerr microscopy*, Feature Article in the special issue “Semiconductor Spintronics”, [physica status solidi (b), DOI:10.1002/pssb.201350192 (2014)](http://dx.doi.org/10.1002/pssb.201350192)
 
 **Henn, T.**, Quast, J.-H., Kiessling, T., Reuter, D., Wieck, A. D., Ossau, W., and Molenkamp, L. W.: *Hot electron spin diffusion in n-type GaAs*, manuscript accepted for publication in European Physical Journal Plus (2014)
 
