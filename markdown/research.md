@@ -1,5 +1,5 @@
 ## Phd Project
-I am a graduate student at the Department of Physics of the [University of Würzburg](http://www.uni-wuerzburg.de/en/new/), Germany  at the chair [Experimentelle Physik III](http://www.physik.uni-wuerzburg.de/EP3/) (chairholder L. W. Molenkamp). Within the scope of my thesis I use optical pump-probe spectroscopy to investigate the interrelation between spin, charge and heat diffusion in the electron system of bulk semiconductors and low-dimensional structures.
+I am a graduate student at the Department of Physics of the [University of Würzburg](http://www.uni-wuerzburg.de/en/new/), Germany  at the chair [Experimentelle Physik III](http://www.physik.uni-wuerzburg.de/EP3/) (chairholder L. W. Molenkamp). Within the scope of my thesis I use optical pump-probe spectroscopy to investigate the interplay between spin, charge, and heat diffusion in the electron system of bulk semiconductors and low-dimensional structures.
 
 During my Phd work I have developed a novel time-resolved magneto-optical Kerr microscopy technique which is based on a pulsed ultrafast white-light supercontinuum laser source. I use this system to study electron spin diffusion in GaAs-based heterostructures and quantum wells with picosecond time and micrometer spatial resolution.
 
