@@ -19,7 +19,7 @@ Münzhuber, F., **Henn, T.**, Kiessling, T., Ossau, W., Molenkamp, L. W., Gieski
 
 **Henn, T.**, Kiessling, T., Reuter, D., Wieck, A. D., Biermann, K., Santos, P.V., and Ossau, W.: *Time and spatially resolved electron spin detection in semiconductor heterostructures by magneto-optical Kerr microscopy*, Feature Article in the special issue “Semiconductor Spintronics”, [physica status solidi (b), DOI:10.1002/pssb.201350192 (2014)](http://dx.doi.org/10.1002/pssb.201350192)
 
-**Henn, T.**, Quast, J.-H., Kiessling, T., Reuter, D., Wieck, A. D., Ossau, W., and Molenkamp, L. W.: *Hot electron spin diffusion in n-type GaAs*, part of the "Focus Point on Quantum Spintronics and Related Phenomena”, [European Physical Journal Plus 129, 128 (2014)](http://dx.doi.org/10.1140/epjp/i2014-14118-y)
+**Henn, T.**, Quast, J.-H., Kiessling, T., Reuter, D., Wieck, A. D., Ossau, W., and Molenkamp, L. W.: *Hot electron spin diffusion in n-type GaAs*, part of the "Focus Point on Quantum Spintronics and Related Phenomena”, [European Physical Journal Plus 129, 118 (2014)](http://dx.doi.org/10.1140/epjp/i2014-14118-y)
 
 **Henn, T.**, Kiessling, T., Biermann, K., Santos, P.V., Ossau, W., and Molenkamp, L. W.: *Ultrafast supercontinuum fiber-laser based pump-probe scanning magneto-optical Kerr effect microscope for the investigation of electron spin dynamics in semiconductors at cryogenic temperatures with picosecond time and micrometer spatial resolution*, [Review of Scientific Instruments 84, 123903 (2013)](http://dx.doi.org/10.1063/1.4842276)
 
