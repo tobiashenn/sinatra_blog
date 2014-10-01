@@ -15,7 +15,7 @@ During my research internship at Berkeley my main focus was on the development o
 ## Publications
 Bieker, S., **Henn, T.**, Kiessling, T., Ossau, W., Molenkamp, L. W.: *Excitonic ring formation in ultrapure bulk GaAs*, submitted
 
-Münzhuber, F., **Henn, T.**, Kiessling, T., Ossau, W., Molenkamp, L. W., Giesking, B., Astakhov, G. V., and Dyakonov, V.: *Exciton decay dynamics controlled by impurity occupation in strongly Mn-doped and partially compensated bulk GaAs*, accepted for publication in Physical Review B
+Münzhuber, F., **Henn, T.**, Kiessling, T., Ossau, W., Molenkamp, L. W., Giesking, B., Astakhov, G. V., and Dyakonov, V.: *Exciton decay dynamics controlled by impurity occupation in strongly Mn-doped and partially compensated bulk GaAs*, [Physical Review B 90, 125203 (2014)](http://dx.doi.org/10.1103/PhysRevB.90.125203)
 
 **Henn, T.**, Kiessling, T., Reuter, D., Wieck, A. D., Biermann, K., Santos, P.V., and Ossau, W.: *Time and spatially resolved electron spin detection in semiconductor heterostructures by magneto-optical Kerr microscopy*, Feature Article in the special issue “Semiconductor Spintronics”, [physica status solidi (b), DOI:10.1002/pssb.201350192 (2014)](http://dx.doi.org/10.1002/pssb.201350192)
 
