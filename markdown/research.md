@@ -13,7 +13,9 @@ During my research internship at Berkeley my main focus was on the development o
 ![](/images/stxm.png "Scanning transmission X-ray microscopy (STXM)")
 
 ## Publications
-Bieker, S., **Henn, T.**, Kiessling, T., Ossau, W., Molenkamp, L. W.: *Excitonic ring formation in ultrapure bulk GaAs*, submitted
+Bieker, S., **Henn, T.**, Kiessling, T., Ossau, W., Molenkamp, L. W.: *Relaxation and radiative decay kinetics of free excitons in nearly defect-free bulk GaAs*, submitted.
+
+Bieker, S., **Henn, T.**, Kiessling, T., Ossau, W., Molenkamp, L. W.: *Excitonic ring formation in ultrapure bulk GaAs*, accepted for publication as a Rapid Communication in Physical Review B.
 
 Münzhuber, F., **Henn, T.**, Kiessling, T., Ossau, W., Molenkamp, L. W., Giesking, B., Astakhov, G. V., and Dyakonov, V.: *Exciton decay dynamics controlled by impurity occupation in strongly Mn-doped and partially compensated bulk GaAs*, [Physical Review B 90, 125203 (2014)](http://dx.doi.org/10.1103/PhysRevB.90.125203)
 
